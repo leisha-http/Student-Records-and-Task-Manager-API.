@@ -2,14 +2,14 @@
 
 Student Records and Task Manager API
 
-#Description
+# Description
 
 This repository contains two projects:
 
 1. Student Records Database: A MySQL database designed to manage student records, including student information, courses, and faculty.
 2. Task Manager API: A simple CRUD API built with Node.js, Express, and MySQL to manage tasks and users.
    
-Setup
+# Setup
 
 1. Clone the repository: git clone https://github.com/your-username/student-records-and-task-manager-api.git
 

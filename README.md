@@ -11,7 +11,7 @@ This repository contains two projects:
    
 # Setup
 
-1. Clone the repository: git clone https://github.com/your-username/student-records-and-task-manager-api.git
+1. Clone the repository
 
 2. Create database: mysql -u root -p < student_records.sql
 

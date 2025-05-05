@@ -18,3 +18,5 @@ This repository contains two projects:
 3. Install dependencies: npm install
 
 4. Start server: npm start
+#ERD Diagram
+![ERD Diagram](https://github.com/user-attachments/assets/471b0e8c-2bfc-4a56-a1f1-cf7a1250dfba)
